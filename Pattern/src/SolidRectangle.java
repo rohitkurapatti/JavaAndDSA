@@ -1,3 +1,4 @@
+package Pattern.src;
 
 public class SolidRectangle {
     public static void main(String[] args) {
@@ -13,3 +14,15 @@ public class SolidRectangle {
         }
     }
 }
+
+/*
+*
+* Output :
+
+ ******
+ ******
+ ******
+ ******
+ ******
+
+*/
